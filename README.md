@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vijay Prabhakar Nagane (@VPrabhakarN)
+# 👋 Hi, I’m Vijay Prabhakar Nagane !
 
 🎯 **Backend Developer | Python Enthusiast | Future AI/ML Engineer**
 
