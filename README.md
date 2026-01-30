@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vijay Prabhakar Nagane !
+# 👋 Hi, I’m Vijay Prabhakar Nagane (@VPrabhakarN)
 
 🎯 **Backend Developer | Python Enthusiast | Future AI/ML Engineer**
 
@@ -31,14 +31,14 @@
 
 ## 📫 Connect with Me
 
-* 📧 Email: *{vijaynagane@outlook.com}*
-* 💼 LinkedIn: *linked on profile*
+* 📧 Email: <a href="mailto:vijaynagane@outlook.com">[vijaynagane@outlook.com](mailto:vijaynagane@outlook.com)</a>
+* 💼 LinkedIn: <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/vijay-nagane-8966641b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">LinkedIn (linked on profile)</a>
 
 ---
 
 ## 🎯 Objective
 
-To continuously improve my engineering skills, build reliable systems, contribute to impactful projects, and grow into an **AI/ML** with strong backend foundations.
+To continuously improve my engineering skills, build reliable systems, contribute to impactful projects, and grow into an **AI/ML by 2027** with strong backend foundations.
 
 ---
 
