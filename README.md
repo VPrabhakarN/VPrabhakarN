@@ -31,7 +31,7 @@
 
 ## 📫 Connect with Me
 
-* 📧 Email: *vijaynagane@outlook.com*
+* 📧 Email: *{vijaynagane@outlook.com}*
 * 💼 LinkedIn: *linked on profile*
 
 ---
