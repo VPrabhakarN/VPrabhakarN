@@ -3,7 +3,7 @@
 🎯 **Backend Developer | Python Enthusiast | Future AI/ML Engineer**
 
 ---
-https://www.linkedin.com/in/vijay-nagane-8966641b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 ## 👨‍💻 About Me
 
 * 🧠 Backend developer with a strong focus on **Python** and system thinking
@@ -32,7 +32,7 @@ https://www.linkedin.com/in/vijay-nagane-8966641b2?utm_source=share&utm_campaign
 ## 📫 Connect with Me
 
 * 📧 Email: <a href="mailto:vijaynagane@outlook.com">[vijaynagane@outlook.com](mailto:vijaynagane@outlook.com)</a>
-* 💼 LinkedIn: <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/vijay-nagane-8966641b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">LinkedIn (linked on profile)</a>
+* 💼 LinkedIn: <a href="https://www.linkedin.com/in/vijay-nagane-8966641b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn (linked on profile)</a>
 
 ---
 
