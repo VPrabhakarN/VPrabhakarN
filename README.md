@@ -10,7 +10,6 @@
 * 🌱 Currently deep‑diving into **Python (FAANG‑oriented)**, **Django**, and **Data Science & GenAI**
 * 🚀 Exploring **Flask** and **FastAPI** to build modern, scalable APIs
 
----
 
 ## 🔍 Interests
 
