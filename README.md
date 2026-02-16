@@ -2,7 +2,6 @@
 
 🎯 **Backend Developer | Python Enthusiast | Future AI/ML Engineer**
 
----
 
 ## 👨‍💻 About Me
 
