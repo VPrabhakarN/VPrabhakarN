@@ -18,8 +18,6 @@
 * System design fundamentals
 * AI / ML engineering (long‑term focus)
 
----
-
 ## 🤝 Collaboration
 
 * 💞️ Open to collaborating on backend, data, and open‑source projects
