@@ -23,7 +23,6 @@
 * 💞️ Open to collaborating on backend, data, and open‑source projects
 * 🧩 Enjoy working on well‑structured, meaningful problem‑solving projects
 
----
 
 ## 📫 Connect with Me
 
