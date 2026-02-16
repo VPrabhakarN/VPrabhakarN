@@ -34,7 +34,6 @@
 
 To continuously improve my engineering skills, build reliable systems, contribute to impactful projects, and grow into an **AI/ML Engineer by 2027** with strong backend foundations.
 
----
 
 ## ✨ Additional Info
 
