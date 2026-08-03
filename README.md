@@ -1,43 +1,106 @@
-# 👋 Hi, I’m Vijay Prabhakar Nagane !
+# 👋 Hi, I'm Vijay Prabhakar Nagane
 
-🎯 **Backend Developer | Python Enthusiast | Future AI/ML Engineer**
+### 🚀 Software Engineer | Python Backend Developer
 
+---
 
 ## 👨‍💻 About Me
 
-* 🧠 Backend developer with a strong focus on **Python** and system thinking
-* 🎓 Bachelor’s degree in **Computer Applications**
-* 🌱 Currently deep‑diving into **Python (FAANG‑oriented)**, **Django**, and **Data Science & GenAI**
-* 🚀 Exploring **Flask** and **FastAPI** to build modern, scalable APIs
+I'm passionate about building reliable backend applications and continuously improving my programming skills through hands-on projects and consistent practice.
 
+I enjoy solving programming problems, writing clean code, and exploring modern backend technologies to build scalable and maintainable software.
 
-## 🔍 Interests
+---
 
-* Backend & API development
-* Data Analytics and Data Science
-* System design fundamentals
-* AI / ML engineering (long‑term focus)
+## 🌱 Currently Learning
 
-## 🤝 Collaboration
+- 🐍 Advanced Python
+- 🌐 Django
+- ⚡ Flask & FastAPI
+- 🧠 C++ Logic Building
+- 🗄️ SQL & Database Design
+- ☁️ Backend Development Best Practices
 
-* 💞️ Open to collaborating on backend, data, and open‑source projects
-* 🧩 Enjoy working on well‑structured, meaningful problem‑solving projects
+---
 
+## 💻 Tech Stack
 
-## 📫 Connect with Me
+### Languages
+- Python
+- C++
+- JavaScript
+- SQL
 
-* 📧 Email: <a href="mailto:vijaynagane@outlook.com">[vijaynagane@outlook.com](mailto:vijaynagane@outlook.com)</a>
-* 💼 LinkedIn: <a href="https://www.linkedin.com/in/vijay-nagane-8966641b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn (linked on profile)</a>
+### Backend
+- Django
+- Flask
+- FastAPI (Learning)
 
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
 
-## 🎯 Objective
+### Database
+- SQLite
+- MySQL
 
-To continuously improve my engineering skills, build reliable systems, contribute to impactful projects, and grow into an **AI/ML Engineer by 2027** with strong backend foundations.
+### Tools
+- Git
+- GitHub
+- VS Code
 
+---
 
-## ✨ Additional Info
+## 🚀 What I'm Building
 
-* 😄 Pronouns: He/Him
-* ⚡ Fun fact: I enjoy hiking and exploring new places
+- 🎥 Real-Time Video Calling Application using Django & Agora
+- 💻 C++ Logic Building Repository
+- 🌐 Backend-focused Python Projects
+- 📚 Concept-based Programming Exercises
 
-> *Learning deeply today to build intelligently tomorrow.*
+---
+
+## 🎯 Goals
+
+- Become a skilled Software Engineer
+- Build scalable backend applications
+- Contribute to meaningful open-source projects
+- Strengthen software engineering fundamentals
+- Continuously learn and improve every day
+
+---
+
+## 🤝 Open to Collaborate
+
+I'm always interested in collaborating on:
+
+- Python Projects
+- Django Applications
+- Backend Development
+- Open Source
+- Learning-focused Projects
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** vijaynagane@outlook.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/vijay-prabhakar-nagane
+
+🐙 **GitHub:** https://github.com/VPrabhakarN
+
+---
+
+## ✨ A Few Things About Me
+
+- 💡 I believe consistency beats intensity.
+- 📚 I enjoy learning by building real projects.
+- 🎯 I focus on writing clean, readable, and maintainable code.
+- 🚀 Every project is an opportunity to become a better engineer.
+
+---
+
+> *"Learning deeply today to build reliable software tomorrow."* 🚀
